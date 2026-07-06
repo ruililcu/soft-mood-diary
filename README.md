@@ -9,7 +9,7 @@
 修订版基于原版基础做了全套个人风格视觉、交互逻辑修订优化。
 全程仅单 HTML 文件，无任何框架、打包工具、后端服务，打开即用；所有日记数据仅存储在浏览器本地 LocalStorage，隐私数据不会上传网络。
 仓库内置两套完整界面实现：
-1. diary_old原版：低饱和马卡龙磨砂玻璃治愈UI
+1. diary_org原版：低饱和马卡龙磨砂玻璃治愈UI
 2. moodiary修订版：深色终端赛博复古风格（截图展示版本）
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/eb652ad3-a118-4c5f-a155-7fe37a5c6c94" />
 
